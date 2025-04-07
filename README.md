@@ -57,7 +57,7 @@ Cliente interno com Professores Egydio e Jean como, respectivamente, P2 e M2
 O desafio deste projeto foi implementar um site a respeito da metodologia ágil scrum, podendo levar uma pessoa sem conhecimento nenhum do topico ate o ponto de poder ensinar para os funcionarios de sua empresa
 
 ### 💡 Solução  
-![Imagem Ilustrativa](https://drive.google.com/file/d/1Ivct6FeY6W4u2tzFKDmfT8oWXmH-XLyd/view?usp=drive_link)
+![Imagem Ilustrativa](./assets/videoapi.gif)
 
 <details>
   <summary>Detalhes</summary>
