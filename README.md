@@ -59,12 +59,10 @@ O desafio deste projeto foi implementar um site a respeito da metodologia ágil 
 ### 💡 Solução  
 ![Imagem Ilustrativa](./assets/videoapi.gif)
 
-<details>
-  <summary>Detalhes</summary>
-  Scrum Academy é um projeto que busca disseminar o método Scrum de maneira fácil e acessível. No Scrum Academy, buscamos reunir todo o conteúdo de Scrum num só lugar e apresentar ao estudante interessado suas ferramentas, métodos, características e aplicações.
+<summary>Detalhes</summary>
+Scrum Academy é um projeto que busca disseminar o método Scrum de maneira fácil e acessível. No Scrum Academy, buscamos reunir todo o conteúdo de Scrum num só lugar e apresentar ao estudante interessado suas ferramentas, métodos, características e aplicações.
 
 Nosso site permite que qualquer pessoa com ou sem experiência com a metodologia aprenda desde as ferramentas básicas até dicas de como aprimorar suas habilidades pessoais no dia a dia do trabalho.
-</details>
 
 ### 🔗 Repositório  
 [Link para o repositório](https://github.com/ColossusAPI/ScrumAcademy)
