@@ -1,5 +1,5 @@
 ## Sobre Mim  
-![Minha Imagem](URL_DA_SUA_IMAGEM_AQUI)
+![Minha Imagem](./assets/20250411_143917.jpg)
 
 Desde pequeno, sempre fui fascinado por tecnologia, jogos e computadores. Esse interesse natural me levou a querer entender melhor como as coisas funcionam por trás das telas, e foi isso que despertou minha vontade de seguir carreira na área de tecnologia.
 
