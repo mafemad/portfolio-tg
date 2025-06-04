@@ -107,57 +107,71 @@ Essas habilidades foram essenciais para manter a organização e o progresso do 
   <summary>🎓 Projeto - 2º Semestre</summary>
   
 ### 📌 Empresa Parceira  
-Informe a empresa ou professor responsável.
+Este projeto foi realizado com cliente interno com Claudio e Giuliano como, respectivamente, M2 e P2
 
 ### ❗ Problema  
-Descreva o problema enfrentado.
+era necessario a criação de uma aplicação que conseguisse processar arquivos e possibilitar interação sobre o assunto desse arquivo, uma funcionalidade quer no momento do desenvolvimento era dificil ate mesmo com IAs populares como chatgpt
 
-### 💡 Solução  
-Explique a solução desenvolvida.  
-![Imagem Ilustrativa](URL_DA_IMAGEM_AQUI)
+### 💡 Solução    
+![Imagem Ilustrativa](assets/chatbot.gif)
 
 <details>
   <summary>Detalhes</summary>
-  Informações adicionais do projeto.
+O Parrot AI é um chatbot avançado construído em Java, impulsionado pela poderosa biblioteca langchain. Sua principal habilidade reside na capacidade de compreender e responder perguntas detalhadas relacionadas a um arquivo específico. Com o uso do processamento de linguagem natural, este chatbot oferece interações inteligentes e contextuais, permitindo aos usuários extrair informações precisas e relevantes do conteúdo do arquivo carregado.
 </details>
 
 ### 🔗 Repositório  
-[Link para o repositório](URL_DO_REPOSITORIO_AQUI)
+[Link para o repositório](https://github.com/C0demain/ParrotAI)
 
 ### 🛠️ Tecnologias Utilizadas  
-Liste tecnologias e onde foram aplicadas.
+
+- **Java**: Utilizado para o desenvolvimento do projeto como um todo, tanto para construção do crud de usuario quanto para as telas desktop utilizadas
+
+- **JavaSwing**: Utilizado para a criação das telas desktop da aplicação
+
+- **Langchain**: Bibiloteca usada para manipular o modelo de linguagem utilizado no projeto, versão especifica para java chamada langchain4J
+
 
 ### 👨‍💻 Contribuições Pessoais  
-Descreva suas contribuições e papel no time.
+neste projeto meu foco foi no modelo de linguagem, eu realizei tarefas como procurar modos de otimizar o processamento do arquivos enviados, seja atraves da limpeza dos arquivos dividindo em blocos mais faceis para o modelo processar, ou testando diferentes modelos de linguagem para o projeto, o modelo final usado foi o sentence-transformers/all-MiniLM-L6-v2 encontrado no hugginface para uso publico.
 
 ### 📈 Hard Skills  
-- **Tecnologia X** – Faço/uso com autonomia  
-- **Tecnologia Y** – Consigo ensinar
+- **Java** – Uso com autonomia  
+- **langchain** – Tenho conhecimento para aplicar em projetos simples
 
 ### 🤝 Soft Skills  
-Descreva situações reais onde aplicou soft skills.
+Neste semestre atuei como scrum master, realizei funções diferentes pela primeira vez, consegui usar da comunicação para poder entender alguns problemas que um membro do grupo estava tendo e ficando para tras dos demais.
+
+Utilizei também do trabalho em equipe para poder manter o time todo em uma mesma cadencia, garantindo que todos pudessem seguir  trabalho sem problemas.
 </details>
 
 <details>
   <summary>🎓 Projeto - 3º Semestre</summary>
   
 ### 📌 Empresa Parceira  
-Informe a empresa ou professor responsável.
+Projeto desenvolvido com a empresa pro4tech
 
 ### ❗ Problema  
-Descreva o problema enfrentado.
+A empresa cliente precisava de uma aplicação que servisse como um dashboard complexo para mensurar vendas e comissões de seus funcionarios, era preciso ter uma visão geral da vendas e filtros especificos para os dashboards, alem de poder editar os valores de comissões, era necessario que o cliente pudesse cadastrar suas vendas manualmente ou atraves de um upload de planiha modelo.
 
-### 💡 Solução  
-Explique a solução desenvolvida.  
-![Imagem Ilustrativa](URL_DA_IMAGEM_AQUI)
+### 💡 Solução   
+- Clique na imagem para ser redirecionado e assistir ao vídeo mostrando os detalhes da aplicação:
+[![Assista ao vídeo](assets/mvp-tela-login.png)](https://drive.google.com/file/d/1b94GKsdwIGHcJ9YA6HmEVndtrlcW9O25/view?usp=sharing)
 
 <details>
   <summary>Detalhes</summary>
-  Informações adicionais do projeto.
+O desafio do terceiro semestre consiste no desenvolvimento de uma Dashboard de Comissões de Vendas, denominada "Sales Dash", em parceria com a empresa Pro4Tech. Este sistema tem como objetivo receber dados de vendas e apresentar informações detalhadas sobre as comissões dos vendedores, calculando e exibindo essas comissões com base em diferentes tipos de vendas, conforme descrito a seguir:
+
+Produto novo para novo cliente
+Produto antigo para novo cliente
+Produto novo para cliente antigo
+Produto antigo para cliente antigo
+
+Cada tipo de venda estará associado a um plano de remuneração específico, o qual poderá ser configurado para determinar o bônus atribuído a cada vendedor.
 </details>
 
 ### 🔗 Repositório  
-[Link para o repositório](URL_DO_REPOSITORIO_AQUI)
+[Link para o repositório](https://github.com/C0demain/sales-dash)
 
 ### 🛠️ Tecnologias Utilizadas  
 Liste tecnologias e onde foram aplicadas.
