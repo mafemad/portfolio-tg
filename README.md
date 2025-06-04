@@ -40,8 +40,8 @@ Neste documento, apresento todos os Projetos Integradores que desenvolvi ao long
 ---
 
 ## 📞 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DO_SEU_LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](URL_DO_SEU_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ferreira-madeira/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafemad)
 
 ---
 
@@ -54,7 +54,7 @@ Neste documento, apresento todos os Projetos Integradores que desenvolvi ao long
 Cliente interno com Professores Egydio e Jean como, respectivamente, P2 e M2
 
 ### ❗ Problema  
-O desafio deste projeto foi implementar um site a respeito da metodologia ágil scrum, podendo levar uma pessoa sem conhecimento nenhum do topico ate o ponto de poder ensinar para os funcionarios de sua empresa
+A fatec precisava de um modo de introduzir os seus novos alunos ao metodo scrum, precisava de algo intuitivo e bem explicado, mas tambem precisava ser algo de facil uso e com diversas fontes de informação 
 
 ### 💡 Solução  
 ![Imagem Ilustrativa](./assets/videoapi.gif)
@@ -93,11 +93,11 @@ Todas as atividades foram realizadas de forma colaborativa com a equipe, aplican
 - **Bootstrap** – Conhecimento básico, utilizado para estruturar layouts e aplicar componentes prontos
 
 ### 🤝 Soft Skills  
-Durante o desenvolvimento do projeto, atuei como membro do Dev Team, contribuindo diretamente com as entregas técnicas e colaborando com os demais integrantes da equipe.  
+Durante o desenvolvimento do projeto, atuei como membro do Dev Team no scrum, contribuindo diretamente com as entregas técnicas e colaborando com os demais integrantes da equipe.  
 
-Ao longo do processo, desenvolvi habilidades de **trabalho em equipe**, mantendo uma boa comunicação com os colegas para garantir alinhamento nas tarefas e eficiência na divisão das responsabilidades.  
+Ao longo do processo, desenvolvi habilidades de **trabalho em equipe**, devido ao fato de ter que desenvolver um codigo base em conjunto com os outros membros atraves do github
 
-Também pratiquei a **comunicação interpessoal**, participando de reuniões frequentes, tirando dúvidas, dando sugestões e ajudando na resolução de problemas em grupo.  
+Também pratiquei a **comunicação interpessoal**, dando sugestoes, como por exemplo da implementação dos cards do youtube ao fim de cada topico  
 
 Essas habilidades foram essenciais para manter a organização e o progresso do projeto, mesmo sem atuar diretamente nos papéis de Scrum Master ou Product Owner.
 
