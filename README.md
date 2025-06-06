@@ -238,33 +238,59 @@ neste projeto eu atuei como dev team, nisso a minhas soft skills desenvolvidas f
   <summary>🎓 Projeto - 5º Semestre</summary>
   
 ### 📌 Empresa Parceira  
-Informe a empresa ou professor responsável.
+projeto desevolvido com GSW, com professores ronaldo e gerson como, respectivamente M2 e P2
 
 ### ❗ Problema  
-Descreva o problema enfrentado.
+A GSW precisava de um sistema para cadastro de reembolsos para seus funcionarios, este precisava ser um aplicativo mobile, com a visão do status de cada solicitação alem de um modo de anexar os comprovantes, isto junto de um meio de o administrador poder vizualizar estas solicitações e aprovar/recusar.
 
 ### 💡 Solução  
-Explique a solução desenvolvida.  
-![Imagem Ilustrativa](URL_DA_IMAGEM_AQUI)
+- Clique na imagem para ser redirecionado e assistir ao vídeo mostrando os detalhes da aplicação web:
+[![Assista ao vídeo](assets/refund_web.png)](https://drive.google.com/file/d/1M2Z-_GaFNL36fPYcajl-Kc_4Xe1xrJBu/view)
+
+- Clique na imagem para ser redirecionado e assistir ao vídeo mostrando os detalhes da aplicação mobile:
+[![Assista ao vídeo](assets/refund_mob.png)](https://drive.google.com/file/d/1HBDjYvhVGboCoM4Exfvte7C8HXG5gqei/view)
 
 <details>
   <summary>Detalhes</summary>
-  Informações adicionais do projeto.
+O projeto RefundMe foi desenvolvido como parte do desafio prático proposto pela empresa GSW Software para os alunos do 5º semestre do curso de Análise e Desenvolvimento de Sistemas da Fatec São José dos Campos.
+
+A proposta consiste em desenvolver um sistema completo de reembolso corporativo, onde funcionários possam registrar suas solicitações de reembolso de despesas, anexar comprovantes e acompanhar o status de aprovação. O sistema também conta com um painel administrativo exclusivo para gestores aprovarem ou rejeitarem as solicitações com base em regras pré-definidas, como limites por projeto.
+
+Além da aplicação mobile, também foi desenvolvido um backoffice web e uma API robusta com deploy em nuvem.
 </details>
 
 ### 🔗 Repositório  
-[Link para o repositório](URL_DO_REPOSITORIO_AQUI)
+[Link para o repositório](https://github.com/C0demain/refundme)
 
 ### 🛠️ Tecnologias Utilizadas  
-Liste tecnologias e onde foram aplicadas.
+- **Node.js**: utilizado para rodar a aplicação do backend
+  
+- **Typescript**: utilizado como linguagem de progrmação para o frontend e backend
+
+- **Mongoose**: biblioteca utilizada para modelar e gerenciar dados no MongoDB
+
+- **next.js**: biblioteca utilizada para a construção do frontend web, criando interfaces de usuário interativas
+
+- **React Native**: framework utilizado para o desenvolvimento da aplicação mobile nativa usando JavaScript
+
+- **Expo**: plataforma que facilita o desenvolvimento e deploy de apps móveis com React Native
 
 ### 👨‍💻 Contribuições Pessoais  
-Descreva suas contribuições e papel no time.
+neste projeto eu realize tarefas complexas como armazenamento seguro de imagens usando um bucket s3 da amazon junto de urls assinadas, logica de relações do backend com projeto-solicitação-despesa para suprir a estrutura que a empresa usava para organizar seu sistema
 
 ### 📈 Hard Skills  
-- **Tecnologia X** – Faço/uso com autonomia  
-- **Tecnologia Y** – Consigo ensinar
+- **Node.js**: uso com autonomia
+  
+- **Typescript**:uso com autonomia
+
+- **MongoDB**: uso com autonomia
+
+- **next.js**: consigo utilizar em projetos simples 
+
+- **React Native**: consigo utilizar em projetos simples 
+
+- **Expo**: consigo utilizar em projetos simples 
 
 ### 🤝 Soft Skills  
-Descreva situações reais onde aplicou soft skills.
+neste projeto eu atuei como membro do dev team, a soft skill que eu mais exerci foi a capacidade de tomar decisões, muitas coisas do backend coube a mim decidir qual era a melhor escolha de stack para ser utilizada, consegui um bom resultado utilizando aws junto de um bucket s3 atrelado a um banco mongodb em cluster, alem disso foi necessario a comuniação para poder passar essas ideias para os outros membros do grupo.
 </details>
