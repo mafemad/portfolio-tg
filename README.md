@@ -149,7 +149,7 @@ Utilizei também do trabalho em equipe para poder manter o time todo em uma mesm
   <summary>🎓 Projeto - 3º Semestre</summary>
   
 ### 📌 Empresa Parceira  
-Projeto desenvolvido com a empresa pro4tech
+Projeto desenvolvido com a empresa pro4tech, com professores masanori e claudio como, respectivamente, p2 e m2
 
 ### ❗ Problema  
 A empresa cliente precisava de uma aplicação que servisse como um dashboard complexo para mensurar vendas e comissões de seus funcionarios, era preciso ter uma visão geral da vendas e filtros especificos para os dashboards, alem de poder editar os valores de comissões, era necessario que o cliente pudesse cadastrar suas vendas manualmente ou atraves de um upload de planiha modelo.
@@ -174,52 +174,64 @@ Cada tipo de venda estará associado a um plano de remuneração específico, o 
 [Link para o repositório](https://github.com/C0demain/sales-dash)
 
 ### 🛠️ Tecnologias Utilizadas  
-Liste tecnologias e onde foram aplicadas.
+
+- **typescript**: linguagem de programação utilzada para o desenvolvimento da aplicação, utilizado no frontend e backend
+- **node**: usado no backend para rodar a aplicação
+- **postgresql**: banco de dados relacional utilizado no projeto 
+- **react**: framework utilizado para o desenvolvimento do frontend
 
 ### 👨‍💻 Contribuições Pessoais  
-Descreva suas contribuições e papel no time.
+Neste projeto atuei como membro do dev team no scrum, foquei principalmente no backend onde fiz a logica de relação entre as classes de usuarios e vendas, os metodos relacionados a vendas como criação exclusão e atualização, funcionalidade de carregar planilhas para o cadastro de vendas, funcionalidades como verificação se o cliente ja era existente, ou o produto ja era existe, para atribuir as comissões corretamente e correções de bugs e problemas de logica que apareceram durante o desenvolvimento do prjeto.
 
 ### 📈 Hard Skills  
-- **Tecnologia X** – Faço/uso com autonomia  
-- **Tecnologia Y** – Consigo ensinar
+- **typescript** – uso com autonomia  
+- **node** – uso com autonomia  
+- **postgresql** – uso com autonomia  
+- **react** – cosigo utilizar, mas preciso de consultas 
 
 ### 🤝 Soft Skills  
-Descreva situações reais onde aplicou soft skills.
+neste projeto devido ao fato de estar no dev team minha soft skill mais desenvolvida foi a capacidade de me comunicar e expressar minhas ideias, ja que algumas funcionalidades foram levantadas diversas ideias de como fazer e eu consegui mostrar meu ponto de vista e convencer o porque da ideia da implementação do upload de plainhas era uma das prioridades para o funcionamento do projeto
 </details>
 
 <details>
   <summary>🎓 Projeto - 4º Semestre</summary>
   
 ### 📌 Empresa Parceira  
-Informe a empresa ou professor responsável.
+Projeto realizado com a empresa jjmLog, com os professores Sabha e Juliana como, respectivamente, M2 e P2
 
 ### ❗ Problema  
-Descreva o problema enfrentado.
+A jjmLog estava precisando de um aplicativo interno para gerenciamento geral dos processos que ocorrem dentro da empresa, como é uma empresa de logistica os procedimentos variavam desde entrega e recebimento de cargas, ate entrega de olerites e gerenciamento de custos.
 
 ### 💡 Solução  
-Explique a solução desenvolvida.  
-![Imagem Ilustrativa](URL_DA_IMAGEM_AQUI)
+- Clique na imagem para ser redirecionado e assistir ao vídeo mostrando os detalhes da aplicação:
+[![Assista ao vídeo](assets/logflow.png)](https://youtu.be/D8LDeAe5Wgo)
 
 <details>
   <summary>Detalhes</summary>
-  Informações adicionais do projeto.
+O desafio do quarto semestre consiste no desenvolvimento de uma sistema, chamado Logflow, que permita o acompanhamento de diversas ordens de serviços em diferentes setores e etapas durante o atendimento da empresa JJM Log, contando com diversas ferramentas como chat em tempo real, calendario de eventos, upload de imagens e e visão geral via dashboard.
 </details>
 
 ### 🔗 Repositório  
-[Link para o repositório](URL_DO_REPOSITORIO_AQUI)
+[Link para o repositório](https://github.com/C0demain/logflow)
 
 ### 🛠️ Tecnologias Utilizadas  
-Liste tecnologias e onde foram aplicadas.
+- **Typescript**: utilizado como linguagem de progrmação para o frontend e backend
+- **Nestjs**: framework utilizado para o desenvolvimento do backend, modularizando a aplicação
+- **Nodejs**: utilizado para rodar a aplicação do backend
+- **Nextjs**: framework utilizado para a construção do frontend
+
 
 ### 👨‍💻 Contribuições Pessoais  
-Descreva suas contribuições e papel no time.
+neste projeto atuei como membro do dev team do scrum, criei diversas funcionalidades do backend, como o modulo completo das ordens de serviço, usuarios, arquivos e veiculos, um modulo consiste no sistema MVC de uma entidade, criação de testes unitarios para cada service/controller que era criado e rotas personalizadas para situações como dashboards e graficos.
 
 ### 📈 Hard Skills  
-- **Tecnologia X** – Faço/uso com autonomia  
-- **Tecnologia Y** – Consigo ensinar
+- **Typescript**: uso com autonomia
+- **Nestjs**: uso com autonomia
+- **Nodejs**: uso com autonomia
+- **Nextjs**: consigo utilizar em projetos simples 
 
 ### 🤝 Soft Skills  
-Descreva situações reais onde aplicou soft skills.
+neste projeto eu atuei como dev team, nisso a minhas soft skills desenvolvidas foram principalmente a comunicação, tirando duvidas com o P.O sobre o que foi que o cliente queria em algumas funcionalidades,alem da capacidade de  autoaprendizado, devido ao fato de usarmos um framework no backend que nao é passado no curso
 </details>
 
 <details>
