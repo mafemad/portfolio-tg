@@ -414,7 +414,7 @@ No **agente**, contribuí com a criação inicial do agente fazendo o modelo bas
 - **Spring Boot**: uso com autonomia
 - **PostgreSQL**: uso com autonomia
 - **FastAPI**: consigo utilizar em projetos simples
-- - **Langchain**: consigo utilizar em projetos simples
+- **Langchain**: consigo utilizar em projetos simples
 - **Chroma DB**: tenho conhecimento para aplicar em projetos simples
 - **Vue.js**: consigo utilizar em projetos simples
 
