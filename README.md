@@ -1,4 +1,4 @@
-<h1 align="center"> Sobre mim </h1>
+<h1 align="center"> Mateus Ferreira Madeira </h1>
 
 <p align="center">
   <img src="./assets/profile.png" alt="Minha Imagem" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
@@ -360,7 +360,7 @@ Projeto desenvolvido com a Xertica.ai, empresa especializada em desenvolvimento 
 
 ### ❗ Problema
 
-Os pacientes enfrentavam dificuldade em manter consistência alimentar, falta de orientação prática e personalizada, sobrecarga de informações contraditórias sobre nutrição e insegurança em relação às escolhas alimentares no dia a dia. Não havia uma ferramenta que oferecesse suporte nutricional acessível, personalizado e inteligente de forma contínua.
+Os pacientes de um nutricionista pareceiro da empresa Xertica.ai enfrentavam dificuldade em manter consistência alimentar, falta de orientação prática e personalizada, sobrecarga de informações contraditórias sobre nutrição e insegurança em relação às escolhas alimentares no dia a dia. Não havia uma ferramenta que oferecesse suporte nutricional acessível, personalizado e inteligente de forma contínua.
 
 ### 💡 Solução
 
